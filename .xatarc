@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://okupter-o32l3d.us-east-1.xata.sh/db/trigyte",
+  "codegen": {
+    "output": "src/lib/xata/xata.ts"
+  }
+}

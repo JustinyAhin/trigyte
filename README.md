@@ -1,0 +1,3 @@
+# Trigyte
+
+Talent directory app
