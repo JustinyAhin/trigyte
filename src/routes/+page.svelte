@@ -9,7 +9,7 @@
 </svelte:head>
 
 <section class="max-w-7xl mx-auto my-32">
-	<form use:enhance>
+	<form method="post" use:enhance>
 		<input type="text" name="name" placeholder="Name" aria-label="Name" />
 		<select name="role" aria-label="Role">
 			<option value="0">Frontend Engineer</option>
